@@ -8,3 +8,5 @@ const b = 5;
 const c = a + b
 const myname = getFullName()
 console.log(myname);
+
+console.log("welcome to github");
