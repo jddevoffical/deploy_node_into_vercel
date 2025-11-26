@@ -9,4 +9,4 @@ const c = a + b
 const myname = getFullName()
 console.log(myname);
 
-console.log("welcome to git");
+console.log("welcome to git changed from github");
