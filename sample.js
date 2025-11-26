@@ -14,3 +14,7 @@ console.log("welcome to git from local2");
 console.log("welcome to git from local3");
 console.log("welcome to git from local4");
 console.log("welcome to git from local5");
+console.log("welcome to git from local6");
+console.log("welcome to git from local7");
+console.log("welcome to git from local8");
+console.log("welcome to git from local9");
