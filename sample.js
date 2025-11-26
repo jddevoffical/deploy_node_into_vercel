@@ -3,3 +3,6 @@ function getFullName(){
 }
 
 console.log(getFullName())
+const a = 5;
+const b = 5;
+const c = a + b
