@@ -2,4 +2,5 @@ function getFullName(){
     return "jithender"
 }
 
-console.log(getFullName())
+const myname = getFullName()
+console.log(myname);
